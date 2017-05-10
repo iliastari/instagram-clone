@@ -96,7 +96,7 @@ a, a:link, a:hover {
     .collapse{ display:block;}
 }
 .like_heart {
-  background-image: url("http://164.132.71.245/assets/images/mediaconnect/notclicked_heart.png");
+  background-image: url("/assets/images/mediaconnect/notclicked_heart.png");
   background-size: 100%;
   background-repeat: no-repeat;
   background-color: #fff;
@@ -112,7 +112,7 @@ a, a:link, a:hover {
   outline:none;
 }
 .like_heart.clicked {
-  background-image: url("http://164.132.71.245/assets/images/mediaconnect/clicked_heart.png");
+  background-image: url("/assets/images/mediaconnect/clicked_heart.png");
 }
 .like_heart:focus {
   outline:none;
