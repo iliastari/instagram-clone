@@ -3,12 +3,12 @@
 //Database gegevens
 define('HOST','localhost');
 define('HOST_NAME','root');
-define('HOST_PASSWORD','md1a123');
-define('DB_NAME','mediaconnect_insta');
+define('HOST_PASSWORD','password');
+define('DB_NAME','databasename');
 
 
 // Extra
-define('SITE_URL','http://164.132.71.245/');
+define('SITE_URL','http://localhost/');
 define('SITE_NAME','MediaConnect');
 
 define('captcha', '2'); // 0 = geen captcha / 1 = werkende captcha / 2 = captcha zichtbaar maar je kan registeren zonder te gebruiken
