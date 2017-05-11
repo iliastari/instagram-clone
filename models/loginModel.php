@@ -31,7 +31,7 @@ class loginModel extends Model {
 		} elseif ($count == 0){
 			echo "Gebruikersnaam klopt niet";
 		} elseif (password_verify($password, $data['password']) == false) {
-			echo "Wachtwoord is klopt niet";
+			echo "Wachtwoord klopt niet";
 		} elseif ($count > 0 && password_verify($password, $data['password']) == true) {
 			Session::init();
 			Session::set('loggedIn', true);
