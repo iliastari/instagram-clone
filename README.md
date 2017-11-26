@@ -30,7 +30,6 @@ Funny addon: verified mark next to name.
 
 # I'm not gonna continue this project
 I will make REACT version from scratch with way better coding than this one!
-I want to use React because I really want to use it.
 
 
 
