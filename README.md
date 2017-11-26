@@ -1,4 +1,4 @@
-# INSTAGRAM CLONE (I will make REACT version with way better coding than this one!)
+# INSTAGRAM CLONE 
 
 This was a project for school.
 
@@ -29,7 +29,7 @@ Settings to change profile picture and bio.
 Funny addon: verified mark next to name.
 
 # I'm not gonna continue this project
-I want to make a new and better version of the Instagram clone from scratch.
+I will make REACT version from scratch with way better coding than this one!
 I want to use React because I really want to use it.
 
 
