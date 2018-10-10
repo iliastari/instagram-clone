@@ -1,7 +1,5 @@
 # INSTAGRAM CLONE 
 
-This was a project for school.
-
 I made a socialmedia website that looks like Instagram.
 
 
@@ -29,7 +27,7 @@ Settings to change profile picture and bio.
 Funny addon: verified mark next to name.
 
 # I'm not gonna continue this project
-I will make REACT version from scratch with way better coding than this one!
+I will make a new version with REACT/VUE as front-end and a back-end where I use Laravel for REST API'S.
 
 
 
